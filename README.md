@@ -1,1 +1,1 @@
-# Barbershop-adaptive
+Проект "Барбершоп". Продвинутый HTML и CSS 
